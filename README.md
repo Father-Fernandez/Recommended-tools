@@ -6,7 +6,7 @@
 - [**Obsidian**](https://obsidian.md/)  - Very useful note‑taking app.
 
 ## File & PDF Tools
-- [**NanaZip**](https://nanazip.org/) - File compressor (like WinRAR).
+- [**7-Zip**](https://www.7-zip.org/) - File compressor (like WinRAR).
 - [**PDF-gear**](https://www.pdfgear.com/) - PDF Viewer
 - [**File Converter**](https://file-converter.io/) - Right‑click most files and convert it to another appropriate format.
 - [**WizTree**](https://www.diskanalyzer.com/) - See your windows drive and what space is being allocated where. 
@@ -52,18 +52,20 @@
 ### **Programming/Developer**
 
 - [**Zed**](https://zed.dev/) - Code Editor
-- [**Programming-Roadmap**](https://roadmap.sh/) - extremely useful for getting a detailed direction to go in 
-- [**UV**](https://docs.astral.sh/uv/) - replacement for `pip`
+- [**Programming-Roadmap**](https://roadmap.sh/) - Extremely useful for getting a detailed direction to go in
+- [**Learning Rust**](https://rust-book.cs.brown.edu) - Interactive Book with more in-depth explanation of rust concepts
+- [**Practicing Rust**](https://rustlings.rust-lang.org/) - Practicing rust from your very own IDE
+- [**UV**](https://docs.astral.sh/uv/) - Replacement for `pip`
 
 
 ### **Useful Applications**
 - [**Deep-Seek**](https://www.deepseek.com/) - If You Want to Use AI (Environmentally friendlier and more efficient)
 - [**Winhance**](https://winhance.net/) - Debloat and optimize windows yourself
-- [**Notebook-LM**](https://notebooklm.google.com/) - Spercharge your note taking and studying 
+- [**Notebook-LM**](https://notebooklm.google.com/) - Supercharge your note taking and studying 
 - [**Anki**](https://apps.ankiweb.net/) - Free Flashcard studying
 - [**Blip**](https://blip.net/) - Same concept as Local-Send.
 - [**Handbrake**](https://handbrake.fr/downloads.php) - Video Compressor
-- [**Affinity**](https://www.affinity.studio/) - Free photo editing software (owned by Canva).
+- [**Affinity**](https://www.affinity.studio/) - Free photo editing software.
 - [**Affine**](https://affine.pro/) - A combination of Notion and Miro
 - [**FreeCAD**](https://www.freecad.org/) - 3D Modeling (Free CAD)
 
