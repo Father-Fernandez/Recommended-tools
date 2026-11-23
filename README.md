@@ -25,7 +25,6 @@
 - [**Ditto Clipboard Manager**(`Ctrl + .`)](https://sabrogden.github.io/Ditto/) - Better clipboard manager
 - [**Bulk-crap Uninstaller**](https://www.bcuninstaller.com/) - Get rid of things off your computer that you no longer want 
 
----
 
 ## Where I Find All My Things
 
